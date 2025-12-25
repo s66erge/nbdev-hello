@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello"
+  site-url: "https://s66erge.github.io/nbdev-hello"
+  description: "testing nbdev"
+  repo-branch: master
+  repo-url: "https://github.com/s66erge/nbdev-hello"
